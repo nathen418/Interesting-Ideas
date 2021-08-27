@@ -15,8 +15,15 @@ A jumble of all of my project ideas
 - Car key fob code replay device, (raspi pico and sdr)
 - simple access controll system (Raspi Pico + ESP32 with Raspi 4 CM smart hub)
 - Raspi4 Smart mirror
-
+- Discord bot [(link)](https://github.com/Antares-Network/AntaresBot)
+- Minecraft Bungeecord plugin [(link)](https://github.com/Antares-Network/BASM)
+- Minecraft Prisons plugin [(link)](https://github.com/Antares-Network/AntaresPrisons)
+- Vehicle tracker using object recognition [(link)](https://github.com/Antares-Network/Vehicle-Tracking-Using-OpenCV-and-VOLOv5)
+- A website for myself [(link)](https://nathen418.com)
+- A website for my Github Organization [(link)](https://playantares.com)
+- Get and setup a yubikey
+- Design a Bad usb using a raspi pico or similar controller
 
 More to follow :)
 
-# Suggest projects by creating an issue.
+## Suggest projects by creating an issue.
