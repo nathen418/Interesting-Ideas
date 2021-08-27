@@ -23,6 +23,7 @@ A jumble of all of my project ideas
 - A website for my Github Organization [(link)](https://playantares.com)
 - Get and setup a yubikey
 - Design a Bad usb using a raspi pico or similar controller
+- Metal business cards
 
 More to follow :)
 
