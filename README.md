@@ -14,6 +14,7 @@ A jumble of all of my project ideas
 - ADSB antenna with display with an SDR for tuning into the ATC transmissions
 - Car key fob code replay device, (raspi pico and sdr)
 - simple access controll system (Raspi Pico + ESP32 with Raspi 4 CM smart hub)
+- Raspi4 Smart mirror
 
 
 More to follow :)
