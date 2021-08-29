@@ -27,6 +27,7 @@ A jumble of all of my project ideas
 - Make some dope content with a DGI drone or some better brand
 - Do an electrician apprenticeship cause why not
 - Make a custom keyboard
+- Raspi powered bluetooth tracker  to track bluetooth devices near it and also metadata about them. Or make something similar to a tile or something like that
 
 
 More to follow :)
