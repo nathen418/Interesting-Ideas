@@ -5,11 +5,11 @@ A jumble of all of my project ideas
 - Raspi 4B CM SATA NAS
 - Raspi Pico + ESP32 smart thermostat
 - Raspi Pico + ESP32 smart speaker
-- Full Unifi + Dell PowerEdge rack
+- Full Unifi + Dell PowerEdge rack  ---- IN PROGRESS
 - Learn PfSense
 - Raspi Pico alarm clock with dual 7-seg displays (add an ESP32 for on the go programming?)
 - Fully functional and public facing url shortener for my website and affiliated links
-- Self hosted email server
+- Self hosted email server ----- NO NO NO NO NO NO NO NO NO NO NO
 - Lightning detector and triangulation
 - ADSB antenna with display with an SDR for tuning into the ATC transmissions
 - Car key fob code replay device, (raspi pico and sdr)
@@ -21,7 +21,7 @@ A jumble of all of my project ideas
 - Vehicle tracker using object recognition [(link)](https://github.com/Antares-Network/Vehicle-Tracking-Using-OpenCV-and-VOLOv5)
 - A website for myself [(link)](https://nathen418.com)
 - A website for my Github Organization [(link)](https://playantares.com)
-- Get and setup a yubikey
+- Get and setup a yubikey ----- Done
 - Design a Bad usb using a raspi pico or similar controller
 - Metal business cards (pcb business cards???)
 - Make some dope content with a DGI drone or some better brand
